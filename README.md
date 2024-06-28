@@ -66,4 +66,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Copy and use the above README template for your GitHub repository to document the regression models effectively.
+
