@@ -22,7 +22,7 @@ regression-models/
 ## Getting Started
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/regression-models.git
+   git clone https://github.com/tanrivertarik/regressiondesicion.git
    cd regression-models
    ```
 
